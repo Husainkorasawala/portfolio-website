@@ -1,0 +1,9 @@
+export { default as Hero } from "./Hero";
+export { default as Social } from "./Social";
+export { default as Button } from "./Button";
+export { default as Address } from "./Address";
+export { default as Contact } from "./Contact";
+export { default as About } from "./about";
+export { default as ScrollToTop } from "./ScrollToTop";
+export { default as Portfolio } from "./portfolio/Portfolio";
+export { default as ScrollTopBehaviour } from "./ScrollTopBehaviour";
